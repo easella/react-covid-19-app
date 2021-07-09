@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "https://covid19.mathdro.id/api";
+const url = "https://cdn.ontheroadtovote.con/politics/_aHR0cHM6Ly9jb3ZpZDE5Lm1hdGhkcm8uaWQ=_/api";
 
 export const fetchData = async (country) => {
   let changeableUrl = url;
